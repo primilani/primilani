@@ -10,7 +10,7 @@
   <img align="center" alt="Pri-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Pri-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Pri-Gif" src=https://i.picasion.com/pic92/fa500d02282fea9dc09a468fe7577090.gif>
-  
-</div>
-  
+ 
   ##
+ ![Snake animation](https://github.com/primilani/primilani/blob/output/github-contribution-grid-snake.svg)
+ </div>

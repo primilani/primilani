@@ -9,7 +9,7 @@
   <img align="center" alt="Pri-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Pri-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Pri-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img src="https://i.picasion.com/pic92/166a759a2ee7a95684f87f2c2f17124f.gif" lign="left" alt="Rafa-pic" height="150" style="border-radius:50px;"       alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
+  <img align="right" alt="Pri-Gif" src=https://i.picasion.com/pic92/fa500d02282fea9dc09a468fe7577090.gif>
   
 </div>
   

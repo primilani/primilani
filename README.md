@@ -1,4 +1,4 @@
-## Olá, eu sou Priscila Milani, e estou descobrindo aos poucos o mundo de programação.
+## Olá, sou a Pri estudante de Tecnico em Informatica, e estou descobrindo aos poucos o mundo de programação ❤️.
 <div align="center">
   <a href="https://github.com/primilani">
   <img width="42%"  src="https://github-readme-stats.vercel.app/api?username=primilani&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>

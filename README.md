@@ -1,5 +1,5 @@
 ## Olá eu sou a Pri, estudante de Tecnico em Informatica, e estou descobrindo aos poucos o mundo de programação.
-## Atualmente trabalho com testes de software, e estou me aprofundado da linguagem JAVA❤️.
+Atualmente trabalho com testes de software, e estou me aprofundado da linguagem JAVA❤️. ##
 
 <div align="center">
   <a href="https://github.com/primilani">

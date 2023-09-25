@@ -14,7 +14,7 @@
   <img align="center" alt="Pri-JAVA" height="35" width="35" src="https://icon-library.com/images/java-icon-image/java-icon-image-10.jpg">
   
   <br>  
-  <img align="right" width="110px" alt="Pri-Gif" src=https://i.picasion.com/pic92/fa500d02282fea9dc09a468fe7577090.gif>
+  <img align="right" width="110px" alt="Pri-Gif" src=https://i.picasion.com/pic92/f3c1d1cae9dc11f7ec1e3737b872ce6b.gif>
  
   
  ![Snake animation](https://github.com/primilani/primilani/blob/output/github-contribution-grid-snake.svg)

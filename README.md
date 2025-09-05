@@ -7,7 +7,7 @@ Bem-vindo ao meu **mundinho de aprendizado constante** na área de TI!
 
 Hoje sou **QA - Garantia de Qualidade** com foco em testes manuais, mas também evoluindo meu conhecimento para o universo dos **Testes Automatizados**.  
  
-Todos os repositórios que você vai encontrar aqui foram construidos base de muito café ☕, acertos, alguns erros, muito Lofi 🎶, algumas lágrimas e muito pelo de gato 🐈.  
+Todos os repositórios que você vai encontrar aqui foram construidos a base de muito café ☕, acertos, alguns erros, muito Lofi 🎶, algumas lágrimas e muito pêlo de gato 🐈.  
 
 Mas no fim das contas, cada projeto me enche de alegria, porque mostra o quanto estou caminhando e evoluindo com o tempo.💟
 
